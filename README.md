@@ -7,17 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/migantoju0" target="blank"><img src="https://img.shields.io/twitter/follow/migantoju0?logo=twitter&style=for-the-badge" alt="migantoju0" /></a> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Some Goland & C++ (for game dev)**
 
 - 📝 I regulary write articles on [https://codingtaco.com](https://codingtaco.com)
 
-- 💬 Ask me about **Django, Flask, FastAPI**
+- 💬 Ask me about **Python (and its frameworks), Software Architecture, Golang and a bit of C++ (writing some emulators)**
 
 - 📫 How to reach me **migantoju@gmail.com**
 
-- 📄 Know about my experiences [I'm currently workin as a backend developer at Urbvan.](I'm currently workin as a backend developer at Urbvan.)
+- 📄 Know about my experiences [I'm currently workin as a Software Engineer at Urbvan.](I'm currently working Software Engineer at Urbvan.)
 
 - ⚡ Fun fact **I always need to be learning new things.**
+
+- 🐶 I've a dog called "El Viejón"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
